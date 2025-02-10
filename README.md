@@ -1,6 +1,6 @@
 # Layoffs_sights
 
-## Data Cleaning:...
+## Data Cleaning: ...
 
 I went throw a Data cleaning process made up with 4 main steps:
 
@@ -19,4 +19,8 @@ I went throw a Data cleaning process made up with 4 main steps:
 4. Removing any columns and row not necessary
    - Removed row where total_laid_off and percentage_laid_off were NULL
    - Finally removed the added colunm before row_num as it becomes unnessacary
+
+
+## Data Exploratory Analysis: ...
+
 
