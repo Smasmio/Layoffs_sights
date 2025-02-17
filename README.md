@@ -1,4 +1,8 @@
-# Layoffs_sights
+# Layoffs sights 
+
+## Overview: 
+This project focuses on the analysis of a dataset related to layoffs, aiming to explore trends, patterns, and insights through Exploratory Data Analysis (EDA). The raw data was cleaned and processed using MYSQL to ensure accuracy and reliability.
+
 
 ## Data Cleaning: ...
 
@@ -23,4 +27,12 @@ I went throw a Data cleaning process made up with 4 main steps:
 
 ## Data Exploratory Analysis: ...
 
+The dataset includes the layoffs around the world in the interval from 2020 to 2023 which had some terrible time with the Corona disaster. 
+
+- Looked for how big was these layoffs
+- Which companies totally laid off their employees and found out most of it was startups
+- Looked for some patterns with the funds the companies had and the percentage of layoffs
+- Looked for the top 5 companies in layying off finding out that most of them were big companies and their layoff percentage was small
+- Tried to look for patterns in total layoffs with companies, industries, countries and even cities 
+- Finally, I looked at top companies layying off each year and even each month 
 
